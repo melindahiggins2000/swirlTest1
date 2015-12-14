@@ -1,0 +1,14 @@
+- Class: meta
+  Course: Initial Getting Started with R
+  Lesson: Learning R
+  Author: Melinda Higgins PhD
+  Type: Standard
+  Organization: Emory University
+  Version: 2.2.21
+
+- Class: text
+  Output: put your text output here
+
+- Class: text
+  Output: Welcome to a course on 
+           getting started with R
